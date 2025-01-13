@@ -141,6 +141,6 @@ Route::get('/register', [UserController::class, 'create'])->middleware('guest');
 
 ---
 
-## **Contributing**
-Feel free to fork the repository and submit pull requests. Contributions are welcome!
+## **Credit**
+ I followed this tutorial for this project : https://www.youtube.com/watch?v=MYyJ4PuL4pY 
  
